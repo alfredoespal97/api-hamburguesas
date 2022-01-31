@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index1.jpg
+
+https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/db.json
