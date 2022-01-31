@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Tribute Burger",
       "restaurant": "Honest Burgers",
-      "image":"onestburgers.co.u",
+      "image":"https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index1.jpg",
       "description": "A mouth-watering honest beef burger",
       "ingredients": [
         "beef",
@@ -20,7 +20,7 @@
       "id": 1,
       "name": "Pulled Mooshie",
       "restaurant": "Mooshies",
-      "web": "www.veganburger.org",
+      "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index2.jpg",
       "description": "Spicy vegan burger with jackfruit",
       "ingredients": [
         "jackfruit",
@@ -32,7 +32,7 @@
       "id": 2,
       "name": "Krabby Patty",
       "restaurant": "Krusty Krab",
-      "web": "https://twitter.com/SpongeBob",
+      "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index3.jpg",
       "description": "The only people who don't like a Krabby Patty have never tasted one.",
       "ingredients": [
         "bun",
@@ -51,7 +51,7 @@
       "id": 3,
       "name": "The Good Burger",
       "restaurant": "Good Burger",
-      "web": "https://en.wikipedia.org/wiki/Good_Burger",
+      "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index4.jpg",
       "description": "Welcome to Good Burger, home of the Good Burger, can I take your order?",
       "ingredients": [
         "bun",
@@ -66,7 +66,7 @@
       "id": 4,
       "name": "Crunchy Nacho Burger",
       "restaurant": "Max Burgers",
-      "web": "https://www.max.se/maten/meny/burgare/crunchy-nacho-burger/",
+      "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index5.jpg",
       "description": "The best combination of crunchiness and softness, all in one single burger",
       "ingredients": [
         "sesame bun",
@@ -84,7 +84,7 @@
       "id": 5,
       "name": "Barbie Burger",
       "restaurant": "Flower Burger",
-      "web": "https://www.flowerburger.it/",
+     "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index6.jpg",
       "description": "From a pink explosion was born Barbie Burger, a special edition in partnership with Mattel",
       "ingredients": [
         "pink bun",
@@ -99,7 +99,7 @@
       "id": 6,
       "name": "Curry On My Wayward Bun",
       "restaurant": "Bob's Burgers",
-      "web": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
+     "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index7.jpg",
       "description": "N/A",
       "ingredients": [
         "beef",
@@ -111,7 +111,7 @@
       "id": 7,
       "name": "MEISTER ALLER KLASSEN",
       "restaurant": "Burgermeister",
-      "web": "https://burger-meister.de",
+      "image": "https://raw.githubusercontent.com/alfredoespal97/api-hamburguesas/main/assets/index8.jpg",
       "description": "Fast food joint located in a public toilet? Why on earth?!",
       "ingredients": [
         "2 x meat",
